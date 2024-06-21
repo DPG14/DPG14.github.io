@@ -1,0 +1,92 @@
+/* Estilo 1 */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    color: #333;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+    color: #990000;
+}
+
+
+h2 {
+    text-align: left;
+    color: #04912e;
+    margin-left: 10px;
+}
+
+h3 {
+    text-align: left;
+    color: #990000;
+    margin-left: 10px;
+}
+
+h2 {
+    margin-top: 20px;
+}
+
+ul, ol {
+    margin-left: 20px;
+}
+
+ul li {
+    list-style-type: square;
+    margin-bottom: 5px;
+}
+
+ol li {
+    list-style-type: decimal;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    border: 2px solid #333;
+    margin-bottom: 20px;
+}
+
+th, td {
+    border: 1px solid #333;
+    padding: 8px;
+    text-align: left;
+}
+
+a {
+    text-decoration: none;
+    color: #0066cc;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Formulario */
+form {
+    background-color: #fff;
+    padding: 20px;
+    border: 1px solid #ccc;
+    margin-bottom: 20px;
+}
+
+input[type="text"], textarea {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+input[type="submit"] {
+    background-color: #0066cc;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
