@@ -10,7 +10,7 @@ body {
 
 h1 {
     text-align: center;
-    color: #990000;
+    color: #ebfa68;
 }
 
 
@@ -22,7 +22,7 @@ h2 {
 
 h3 {
     text-align: left;
-    color: #990000;
+    color: #ebfa68;
     margin-left: 10px;
 }
 h2 {
@@ -59,7 +59,7 @@ table {
 }
 
 th, td {
-    border: 1px solid #990000;
+    border: 1px solid #ebfa68;
     padding: 10px;
     text-align: left;
 }
